@@ -914,6 +914,8 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
+<img width="503" height="132" alt="image" src="https://github.com/user-attachments/assets/6b1a7fc7-9c94-405b-89b5-a792d3e13935" />
+
 
 cat fornested1.sh 
 ```bash
@@ -932,6 +934,8 @@ $ chmod 755 fornested1.sh
  
 $ ./fornested1.sh 
  ## OUTPUT
+ <img width="536" height="268" alt="image" src="https://github.com/user-attachments/assets/e663fceb-49b0-4ef3-b389-4b16c8be74ff" />
+
 
  
 cat forbreak.sh 
@@ -949,6 +953,7 @@ done
 echo "The for loop is completed“
 ```
 ## OUTPUT
+<img width="475" height="101" alt="image" src="https://github.com/user-attachments/assets/56d979b4-6a12-426d-bc11-6e1f51a91c2b" />
 
 $ chmod 755 forbreak.sh
  
@@ -974,6 +979,8 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
+<img width="491" height="136" alt="image" src="https://github.com/user-attachments/assets/468e2fcf-9fab-4a43-9183-70bb84955fd1" />
+
  
 cat exread.sh 
 ```bash
@@ -1039,6 +1046,8 @@ $ chmod 777 argshift.sh
 
 ## OUTPUT
 $ ./argshift.sh 1 2 3
+<img width="462" height="99" alt="image" src="https://github.com/user-attachments/assets/ce2e49ea-1cda-44ee-b2fc-191de31b01fd" />
+
  
  cat argshift1.sh
 ```bash
@@ -1056,6 +1065,8 @@ done
 $ chmod 777 argshift.sh
 ## OUTPUT
 $ ./argshift.sh 1 2 3
+<img width="507" height="100" alt="image" src="https://github.com/user-attachments/assets/adb5b1fc-76a6-4fdc-b9f4-5c5099fa976e" />
+
  
 cat argshift.sh
 ```bash
@@ -1069,6 +1080,8 @@ set +x
 ```
 ## OUTPUT
  ./argshift.sh 1 2 3
+ <img width="509" height="311" alt="image" src="https://github.com/user-attachments/assets/78e49b43-deb8-409d-a176-da75fb13dcb3" />
+
  
  
 cat > nc.awk
@@ -1100,6 +1113,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
+<img width="473" height="275" alt="image" src="https://github.com/user-attachments/assets/da12355b-0fe1-4c27-8b47-91cad26b68f2" />
+
  
 cat > palindrome.sh
 ```bash
@@ -1127,6 +1142,7 @@ else
 fi
 ```
 ## OUTPUT 
+<img width="523" height="290" alt="image" src="https://github.com/user-attachments/assets/a12056b0-e2cc-4141-9be7-59c40a58d7d7" />
 
 
 # RESULT:
